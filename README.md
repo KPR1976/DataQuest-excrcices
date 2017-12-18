@@ -1,1 +1,1 @@
-# DataQuest excrcices
+# DataQuest exercices
